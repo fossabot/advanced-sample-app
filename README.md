@@ -1,6 +1,6 @@
-
 # Advanced Sample App
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced-sample-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced-sample-app?ref=badge_shield)
 
 ![App Thumbnail](domo/thumbnail.png)
 
@@ -92,3 +92,7 @@ For more information on available commands and usage, see the documentation for 
 ...
 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced-sample-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced-sample-app?ref=badge_large)
